@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "foodlogger3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "foodlogger3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "foodlogger3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
